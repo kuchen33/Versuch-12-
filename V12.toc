@@ -1,0 +1,12 @@
+\select@language {ngerman}
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}Experimenteller Aufbau}{3}{section.1}
+\contentsline {section}{\numberline {2}Auswertung}{4}{section.2}
+\contentsline {subsection}{\numberline {2.1}Berechnung des mitteleren Joule-Thomson-Koeffizienten}{4}{subsection.2.1}
+\contentsline {subsection}{\numberline {2.2}Herleitung $c_\mathrm {v}^\mathrm { vib}$}{4}{subsection.2.2}
+\contentsline {subsection}{\numberline {2.3}Berechnung von $\mu _{JT}$ aus der Virialgleichung}{6}{subsection.2.3}
+\contentsline {subsection}{\numberline {2.4}Fehlerrechnung}{7}{subsection.2.4}
+\contentsline {subsection}{\numberline {2.5}Vergleich mit den Literaturwerten}{7}{subsection.2.5}
+\contentsline {section}{\numberline {3}Diskussion}{7}{section.3}
+\contentsline {section}{\numberline {4}Anhang}{7}{section.4}
+\contentsline {subsection}{\numberline {4.1}Literaturverzeichnis}{8}{subsection.4.1}
