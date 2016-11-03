@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.12)  31 OCT 2016 10:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9) (preloaded format=pdflatex 2015.11.12)  2 NOV 2016 18:49
 entering extended mode
 **V12.tex
 (V12.tex
@@ -1455,69 +1455,69 @@ Underfull \hbox (badness 10000) in paragraph at lines 301--302
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 337.
+(babel)             in language  on input line 339.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 337.
+(babel)             in language  on input line 339.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 340.
+(babel)             in language  on input line 342.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 340.
+(babel)             in language  on input line 342.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 340.
+(babel)             in language  on input line 342.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 340.
+(babel)             in language  on input line 342.
 [6]
-Underfull \hbox (badness 10000) in paragraph at lines 345--346
+Underfull \hbox (badness 10000) in paragraph at lines 347--348
 
  []
 
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 354.
+(babel)             in language  on input line 356.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 354.
+(babel)             in language  on input line 356.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 366.
+(babel)             in language  on input line 368.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 366.
+(babel)             in language  on input line 368.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 374.
+(babel)             in language  on input line 376.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 374.
+(babel)             in language  on input line 376.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 390.
+(babel)             in language  on input line 392.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 390.
+(babel)             in language  on input line 392.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 390.
+(babel)             in language  on input line 392.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 390.
+(babel)             in language  on input line 392.
 [7]
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 393.
+(babel)             in language  on input line 395.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 393.
+(babel)             in language  on input line 395.
 
-Underfull \hbox (badness 10000) in paragraph at lines 402--403
+Underfull \hbox (badness 10000) in paragraph at lines 404--405
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 404.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 406.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 404.
+(babel)             in language  on input line 406.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 404.
+(babel)             in language  on input line 406.
 Package babel Info: Redefining ngerman shorthand "|
-(babel)             in language  on input line 404.
+(babel)             in language  on input line 406.
 Package babel Info: Redefining ngerman shorthand "~
-(babel)             in language  on input line 404.
+(babel)             in language  on input line 406.
 [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 404.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 406.
  (V12.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 404.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 404.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 406.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 406.
 Package rerunfilecheck Info: File `V12.out' has not changed.
 (rerunfilecheck)             Checksum: 10EB0D956AFFEBF87CFD1BD5C2A2CFAD;671.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 404.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 406.
  ) 
 Here is how much of TeX's memory you used:
  19875 strings out of 493673
@@ -1544,7 +1544,7 @@ ic/amsfonts/cm/cmssbx10.pfb><D:/Neuer Ordner/fonts/type1/public/amsfonts/cm/cms
 y10.pfb><D:/Neuer Ordner/fonts/type1/public/amsfonts/cm/cmsy6.pfb><D:/Neuer Ord
 ner/fonts/type1/public/amsfonts/cm/cmsy8.pfb><D:/Neuer Ordner/fonts/type1/publi
 c/amsfonts/cm/cmti12.pfb>
-Output written on V12.pdf (8 pages, 293441 bytes).
+Output written on V12.pdf (8 pages, 293417 bytes).
 PDF statistics:
  198 PDF objects out of 1000 (max. 8388607)
  38 named destinations out of 1000 (max. 500000)
